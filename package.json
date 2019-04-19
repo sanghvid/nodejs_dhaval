@@ -1,0 +1,26 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "This is first project which is build by learning udemy videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanghvid/nodejs_dhaval.git"
+  },
+  "keywords": [
+    "node",
+    "tutorials"
+  ],
+  "author": "dhaval sanghvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanghvid/nodejs_dhaval/issues"
+  },
+  "homepage": "https://github.com/sanghvid/nodejs_dhaval#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
